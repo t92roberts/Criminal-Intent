@@ -1,14 +1,9 @@
 package com.bignerdranch.android.criminalintent;
 
-import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v7.app.AppCompatActivity;
-
-/**
- * Created by Tom on 06/03/2018.
- */
 
 public abstract class SingleFragmentActivity extends AppCompatActivity {
 

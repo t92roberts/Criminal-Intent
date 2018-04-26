@@ -2,10 +2,6 @@ package com.bignerdranch.android.criminalintent;
 
 import android.support.v4.app.Fragment;
 
-/**
- * Created by Tom on 06/03/2018.
- */
-
 public class CrimeListActivity extends SingleFragmentActivity {
 
     @Override

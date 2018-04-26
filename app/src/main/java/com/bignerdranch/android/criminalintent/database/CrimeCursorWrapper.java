@@ -9,12 +9,9 @@ import com.bignerdranch.android.criminalintent.database.CrimeDbSchema.CrimeTable
 import java.util.Date;
 import java.util.UUID;
 
-/**
- * Created by Tom on 14/03/2018.
- */
-
 public class CrimeCursorWrapper extends CursorWrapper {
-    public CrimeCursorWrapper (Cursor cursor) {
+
+    public CrimeCursorWrapper(Cursor cursor) {
         super(cursor);
     }
 
